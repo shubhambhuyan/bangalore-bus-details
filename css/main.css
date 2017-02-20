@@ -792,4 +792,31 @@ h2 {
   color:#1B7B98
 }
 
+/**************
+******Admin CSS****
+******************/
+
+#adminsection
+{
+	font-family: 'Dosis', sans-serif;
+	font-size: 17px;
+	color: #000;
+	margin-left : 5%;
+	margin-top : 5%;	
+}
+
+#stopfield 
+{
+	
+}
+
+#stopfield img
+{
+	height:25px;
+	width:25px;
+}
+
+.field_wrapper div{ margin-bottom:10px;}
+.add_button{ margin-top:10px; margin-left:10px;vertical-align: text-bottom;}
+.remove_button{ margin-top:10px; margin-left:10px;vertical-align: text-bottom;}
 
